@@ -25,7 +25,7 @@ export default function App() {
   }
 
   // navigation
-  return (
+  retur (
     <NavigationContainer>
       <Stack.Navigator>
 
