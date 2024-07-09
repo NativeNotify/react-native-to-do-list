@@ -6,7 +6,7 @@ import registerNNPushToken from 'native-notify';
 import Home from './src/screens/Home';
 import ChosenTask from './src/screens/ChosenTask';
 
-const Stack = createNativeStackNavigator();
+
 
 export default function App() {
   // push notifications
